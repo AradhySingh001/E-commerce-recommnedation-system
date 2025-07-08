@@ -14,16 +14,4 @@ An intelligent product recommendation system for e-commerce platforms that uses 
 
 ---
 
-##🗂 Project Structure
-📁 models/
-├── clean_data.csv
-├── marketing_data.csv
-└── trending_products.csv
-📁 static/
-├── img/
-└── V.mp4
-📁 templates/
-├── index.html
-└── main.html
-📄 app.py
-📄 README.md
+
